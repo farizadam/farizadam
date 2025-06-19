@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fariz Adam</h1>
-<h3 align="center">software engineering student and aspiring full-stack developer from Morocco 🇲🇦</h3>
+<h3 align="center">Software Engineering student and aspiring full-stack developer from Morocco 🇲🇦</h3>
 
 - 🌱 I’m currently learning **React, MongoDB, Node.js , Express.js**
 
