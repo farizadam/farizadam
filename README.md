@@ -49,8 +49,10 @@
 
 ### 🔐 Security
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=jwt" />
-  <img src="https://skillicons.dev/icons?i=openssl" />
+  <img src="https://img.shields.io/badge/JWT-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/OAuth-3C3C3C?style=flat-square" />
+  <img src="https://img.shields.io/badge/bcrypt-444?style=flat-square" />
+  <img src="https://img.shields.io/badge/OpenSSL-006400?style=flat-square" />
 </p>
 
 ### 📡 DevOps & Cloud
