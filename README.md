@@ -17,17 +17,59 @@
 
 ## 🧠 About
 
-- ⚡ Building **production-ready MERN apps**
+- ⚡ Building **production-ready MERN & mobile apps**
 - 🔐 Focused on **security (JWT, OAuth, cryptography)**
-- 🤖 Creating **AI-driven tools (moderation, automation)**
-- 🛠️ Experienced with **Docker & CI/CD pipelines**
+- 🤖 Creating **AI-driven tools & APIs**
+- 🐳 Shipping with **Docker & CI/CD**
 
 ---
 
 ## 🛠️ Tech Stack
 
+### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,react,nextjs,nodejs,express,mongodb,mysql,firebase,docker,git" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c,java" />
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+</p>
+
+### 🔧 Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://img.shields.io/badge/REST%20API-000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+</p>
+
+### 🔐 Security
+<p>
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OAuth-3C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/bcrypt-444?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenSSL-006400?style=for-the-badge" />
+</p>
+
+### 📡 DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github" />
+  <img src="https://img.shields.io/badge/CI/CD-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel" />
+  <img src="https://img.shields.io/badge/Render-000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku" />
+</p>
+
+### 🧪 Tools & Ecosystem
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,postman,linux" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 ---
@@ -48,7 +90,7 @@
 
 - 📱 React Native + Node.js  
 - 💳 Stripe wallet system  
-- 🗺️ Real-time tracking (Google Maps API)  
+- 🗺️ Real-time tracking  
 
 ---
 
@@ -71,9 +113,9 @@
 
 ## 🎯 Current Focus
 
-- 🧠 AI + SaaS products  
-- ⚙️ Scalable backend systems  
-- 🌍 Open source contributions  
+- 🤖 AI + SaaS products  
+- ⚙️ Scalable backend architecture  
+- 🌍 Open source  
 
 ---
 
@@ -84,5 +126,5 @@
 ---
 
 <p align="center">
-  ⚡ "Build fast. Secure everything. Scale smart."
+  ⚡ Build fast. Secure everything. Scale smart.
 </p>
