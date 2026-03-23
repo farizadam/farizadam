@@ -64,7 +64,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,postman" />
 </p>
----
 
 ## 🚀 Projects
 
