@@ -1,50 +1,79 @@
-# Adam Fariz ⚡
+# ⚡ Adam Fariz
 
-Full Stack Developer | Software Engineering Student  
-Building scalable apps, secure systems, and real-world products.
+🚀 Full Stack Developer | Software Engineering Student  
+🧠 Building AI-powered systems & scalable web applications  
 
-📍 Morocco  
-🔗 https://farizadam.netlify.app  
-🔗 https://linkedin.com/in/adamfariz-3bba3b2a9  
-
----
-
-## 🚀 Tech
-
-**Frontend:** React, Next.js, Tailwind  
-**Backend:** Node.js, Express  
-**Database:** MongoDB, MySQL, Firebase  
-**Security:** JWT, OAuth, bcrypt, OpenSSL  
-**Tools:** Docker, Git, CI/CD, Vercel, Render  
+<p align="left">
+  <a href="https://farizadam.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/adamfariz-3bba3b2a9">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Morocco-🇲🇦-red?style=for-the-badge"/>
+</p>
 
 ---
 
-## 💼 Experience
+## 🧠 About
 
-- **Freelance Full Stack Dev** — Built client websites & APIs (MERN + WordPress)  
-- **Instructor** — Taught coding & robotics (Arduino, Python)  
-- **Intern @ TeamElGhazi** — Full-stack apps, auth systems, API integrations  
-
----
-
-## 🧠 Projects
-
-**Zodiac Guard**  
-→ AI moderation API (real-time, <150ms, 50+ devs)
-
-**CovoitAir**  
-→ Airport carpooling app (React Native + Stripe + Maps)
-
-**TrustSign**  
-→ Secure document signing (RSA cryptography)
+- ⚡ Building **production-ready MERN apps**
+- 🔐 Focused on **security (JWT, OAuth, cryptography)**
+- 🤖 Creating **AI-driven tools (moderation, automation)**
+- 🛠️ Experienced with **Docker & CI/CD pipelines**
 
 ---
 
-## 🎯 Focus
+## 🛠️ Tech Stack
 
-- AI-powered systems  
-- Scalable backend architecture  
-- Open-source & real-world impact  
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,react,nextjs,nodejs,express,mongodb,mysql,firebase,docker,git" />
+</p>
+
+---
+
+## 🚀 Projects
+
+### 🛡️ Zodiac Guard
+> AI-powered real-time moderation engine  
+
+- ⚡ <150ms latency  
+- 🧩 API + SDK + Dashboard  
+- 👨‍💻 50+ developers onboarded  
+
+---
+
+### ✈️ CovoitAir
+> Airport ride-sharing mobile app  
+
+- 📱 React Native + Node.js  
+- 💳 Stripe wallet system  
+- 🗺️ Real-time tracking (Google Maps API)  
+
+---
+
+### 🔐 TrustSign
+> Secure document signing platform  
+
+- 🔑 RSA / OpenSSL cryptography  
+- 📄 Tamper-proof verification  
+
+---
+
+## 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- 🧠 AI + SaaS products  
+- ⚙️ Scalable backend systems  
+- 🌍 Open source contributions  
 
 ---
 
@@ -54,4 +83,6 @@ Building scalable apps, secure systems, and real-world products.
 
 ---
 
-⭐ Check my repos & build something cool.
+<p align="center">
+  ⚡ "Build fast. Secure everything. Scale smart."
+</p>
