@@ -96,7 +96,6 @@
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farizadam&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=farizadam&theme=tokyonight" height="150"/>
 </p>
 
