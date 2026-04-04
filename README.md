@@ -38,7 +38,7 @@
 
 ### 🔧 Backend & APIs
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,apache,gradle" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,gradle" />
   <img src="https://skillicons.dev/icons?i=graphql" />
 </p>
 
