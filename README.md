@@ -4,7 +4,7 @@
 🧠 Building AI-powered systems & scalable web applications  
 
 <p align="left">
-  <a href="https://farizadam.netlify.app">
+  <a href="https:farizadam.me/">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/adamfariz-3bba3b2a9">
