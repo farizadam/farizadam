@@ -4,7 +4,7 @@
 🧠 Building AI-powered systems & scalable web applications  
 
 <p align="left">
-  <a href="https:farizadam.me/">
+  <a href="https://farizadam.me/">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/adamfariz-3bba3b2a9">
@@ -28,7 +28,7 @@
 
 ### 💻 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c,java" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c,java,php" />
 </p>
 
 ### 🎨 Frontend
@@ -38,13 +38,13 @@
 
 ### 🔧 Backend & APIs
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,apache,gradle" />
   <img src="https://skillicons.dev/icons?i=graphql" />
 </p>
 
 ### 🗄️ Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" />
 </p>
 
 ### 🔐 Security
