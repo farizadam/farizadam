@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Fariz Adam 👋
 
-### Full-Stack Developer | Enterprise Systems & Real-Time AI | Secure Architecture
+### Software Engineering Student | Enterprise Systems & Real-Time AI | Secure Architecture
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-farizadam.vercel.app-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white)](https://farizadam.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adamfariz-3bba3b2a9)
